@@ -1,0 +1,7 @@
+.venv/
+.env
+traces/*.jsonl
+data/*.csv
+__pycache__/
+*.pyc
+.DS_Store
